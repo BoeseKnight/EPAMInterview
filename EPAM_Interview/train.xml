@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<train>
+    <trainCarryingCapacity>291</trainCarryingCapacity>
+    <trainPassengerCapacity>330</trainPassengerCapacity>
+    <carsQuantity>11</carsQuantity>
+    <cars>
+        <passengerCars>
+            <element>
+                <passengerCapacity>50</passengerCapacity>
+            </element>
+            <element>
+                <passengerCapacity>46</passengerCapacity>
+            </element>
+            <element>
+                <passengerCapacity>49</passengerCapacity>
+            </element>
+            <element>
+                <passengerCapacity>68</passengerCapacity>
+            </element>
+            <element>
+                <passengerCapacity>54</passengerCapacity>
+            </element>
+            <element>
+                <passengerCapacity>63</passengerCapacity>
+            </element>
+        </passengerCars>
+        <freightCars>
+            <element>
+                <carryingCapacity>76</carryingCapacity>
+            </element>
+            <element>
+                <carryingCapacity>35</carryingCapacity>
+            </element>
+            <element>
+                <carryingCapacity>71</carryingCapacity>
+            </element>
+            <element>
+                <carryingCapacity>40</carryingCapacity>
+            </element>
+            <element>
+                <carryingCapacity>69</carryingCapacity>
+            </element>
+        </freightCars>
+    </cars>
+</train>
